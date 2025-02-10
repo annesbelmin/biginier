@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows:"
+authors:
+  - family-names: Doe
+    given-names: John
+title: "biginier"
+version: "0.1.0"
+date-released: 2025-02-10
